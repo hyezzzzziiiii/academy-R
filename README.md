@@ -1,2 +1,2 @@
 ### I reviewed what I learned during coding class. 🧐<br> There's R_script basic knowledge stored in this repository.
-#### I used the 'R Studio' to study at the academy.
+<p> I used the <b>'R Studio'</b> to study at the academy.</p>
